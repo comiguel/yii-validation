@@ -709,3 +709,2104 @@ Stack trace:
 REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
 HTTP_REFERER=http://localhost/yii-validation/users/index
 ---
+2014/09/19 15:46:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/
+---
+2014/09/19 15:46:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/site/page?view=about
+---
+2014/09/19 15:46:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/site/contact
+---
+2014/09/19 15:46:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/site/login
+---
+2014/09/19 15:46:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/
+---
+2014/09/19 15:46:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users
+---
+2014/09/19 15:46:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/create
+---
+2014/09/19 15:46:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/create
+---
+2014/09/19 15:49:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/admin
+---
+2014/09/19 15:50:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/create
+---
+2014/09/19 15:51:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/103
+---
+2014/09/19 15:52:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/index
+---
+2014/09/19 15:52:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/index?Users_page=10
+---
+2014/09/19 15:52:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/index?Users_page=11
+---
+2014/09/19 15:52:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/103
+---
+2014/09/19 15:52:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/admin
+---
+2014/09/19 15:52:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/admin?Users_page=10
+---
+2014/09/19 15:52:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/admin?Users_page=11
+---
+2014/09/19 15:52:47 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in C:\xampp\htdocs\yii\framework\web\CController.php:1118
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\filters\CInlineFilter.php(58): CController->filterPostOnly(Object(CFilterChain))
+#1 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#2 C:\xampp\htdocs\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#3 C:\xampp\htdocs\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 C:\xampp\htdocs\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 C:\xampp\htdocs\yii\framework\web\CController.php(291): CFilterChain->run()
+#7 C:\xampp\htdocs\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('delete')
+#9 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('users/delete')
+#10 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#11 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/yii-validation/users/delete/103
+HTTP_REFERER=http://localhost/yii-validation/users/admin?Users_page=11
+---
+2014/09/19 15:52:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/delete/103
+---
+2014/09/19 15:52:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/
+---
+2014/09/19 15:53:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/index?Users_page=2
+---
+2014/09/19 15:53:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/index?Users_page=10
+---
+2014/09/19 15:53:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/index?Users_page=11
+---
+2014/09/19 15:56:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/103
+---
+2014/09/19 15:56:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/index
+---
+2014/09/19 15:56:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/admin
+---
+2014/09/19 15:56:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/admin?Users_page=10
+---
+2014/09/19 15:56:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/admin?Users_page=11
+---
+2014/09/19 15:56:47 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in C:\xampp\htdocs\yii\framework\web\CController.php:1118
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\filters\CInlineFilter.php(58): CController->filterPostOnly(Object(CFilterChain))
+#1 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#2 C:\xampp\htdocs\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#3 C:\xampp\htdocs\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 C:\xampp\htdocs\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 C:\xampp\htdocs\yii\framework\web\CController.php(291): CFilterChain->run()
+#7 C:\xampp\htdocs\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('delete')
+#9 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('users/delete')
+#10 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#11 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/yii-validation/users/delete/103
+HTTP_REFERER=http://localhost/yii-validation/users/admin?Users_page=11
+---
+2014/09/19 15:56:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/delete/103
+---
+2014/09/19 15:57:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/admin?Users_page=11
+---
+2014/09/19 15:58:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/update/103
+---
+2014/09/19 15:58:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/103
+---
+2014/09/19 15:58:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/index
+---
+2014/09/19 15:58:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/admin
+---
+2014/09/19 16:00:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/create
+---
+2014/09/19 16:03:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/create
+---
+2014/09/19 16:05:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/create
+---
+2014/09/19 16:05:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/create
+---
+2014/09/19 16:05:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/admin
+---
+2014/09/19 16:05:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/admin?Users_page=10
+---
+2014/09/19 16:05:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/admin?Users_page=11
+---
+2014/09/19 16:06:46 [error] [php] Trying to get property of non-object (C:\xampp\htdocs\yii-validation\protected\views\layouts\main.php:8)
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\widgets\CContentDecorator.php(76): UsersController->renderFile()
+#1 C:\xampp\htdocs\yii\framework\web\widgets\CContentDecorator.php(54): CContentDecorator->decorate()
+#2 C:\xampp\htdocs\yii\framework\web\widgets\COutputProcessor.php(44): CContentDecorator->processOutput()
+#3 C:\xampp\htdocs\yii\framework\web\CBaseController.php(206): CContentDecorator->run()
+#4 C:\xampp\htdocs\yii\framework\web\CBaseController.php(300): UsersController->endWidget()
+#5 C:\xampp\htdocs\yii-validation\protected\views\layouts\column2.php(24): UsersController->endContent()
+#6 C:\xampp\htdocs\yii\framework\web\CBaseController.php(126): require()
+#7 C:\xampp\htdocs\yii\framework\web\CBaseController.php(95): UsersController->renderInternal()
+#8 C:\xampp\htdocs\yii\framework\web\CController.php(784): UsersController->renderFile()
+#9 C:\xampp\htdocs\yii-validation\protected\controllers\UsersController.php(153): UsersController->render()
+#10 C:\xampp\htdocs\yii\framework\web\actions\CInlineAction.php(49): UsersController->actionAdmin()
+#11 C:\xampp\htdocs\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#12 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(133): UsersController->runAction()
+#13 C:\xampp\htdocs\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#14 C:\xampp\htdocs\yii\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#15 C:\xampp\htdocs\yii\framework\web\filters\CInlineFilter.php(58): UsersController->filterAccessControl()
+#16 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#17 C:\xampp\htdocs\yii\framework\web\CController.php(291): CFilterChain->run()
+#18 C:\xampp\htdocs\yii\framework\web\CController.php(265): UsersController->runActionWithFilters()
+#19 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): UsersController->run()
+#20 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#21 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#22 C:\xampp\htdocs\yii-validation\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii-validation/users/admin?Users_page=10
+in C:\xampp\htdocs\yii-validation\protected\views\layouts\main.php (8)
+in C:\xampp\htdocs\yii-validation\protected\views\layouts\column2.php (24)
+in C:\xampp\htdocs\yii-validation\protected\controllers\UsersController.php (153)
+2014/09/19 16:26:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/create
+---
+2014/09/19 16:28:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/create
+---
+2014/09/19 16:29:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/admin
+---
+2014/09/19 16:30:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/admin
+---
+2014/09/19 16:32:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/admin
+---
+2014/09/19 16:32:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/site/index
+---
+2014/09/19 16:33:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/site/page?view=about
+---
+2014/09/19 16:33:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/site/contact
+---
+2014/09/19 16:33:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users
+---
+2014/09/19 16:34:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users
+---
+2014/09/19 16:34:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users
+---
+2014/09/19 16:34:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/admin
+---
+2014/09/19 16:34:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/index
+---
+2014/09/19 16:34:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/
+---
+2014/09/19 16:34:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users
+---
+2014/09/19 16:34:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/admin
+---
+2014/09/19 16:35:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/create
+---
+2014/09/19 16:35:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/create
+---
+2014/09/19 16:40:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/index
+---
+2014/09/19 16:42:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/index
+---
+2014/09/19 16:42:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/admin
+---
+2014/09/19 16:43:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/admin
+---
+2014/09/19 16:43:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/index
+---
+2014/09/19 16:43:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/admin
+---
+2014/09/19 16:47:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/admin
+---
+2014/09/19 16:47:37 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in C:\xampp\htdocs\yii\framework\web\CController.php:1118
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\filters\CInlineFilter.php(58): CController->filterPostOnly(Object(CFilterChain))
+#1 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#2 C:\xampp\htdocs\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#3 C:\xampp\htdocs\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 C:\xampp\htdocs\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 C:\xampp\htdocs\yii\framework\web\CController.php(291): CFilterChain->run()
+#7 C:\xampp\htdocs\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('delete')
+#9 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('users/delete/in...')
+#10 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#11 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/yii-validation/users/delete/index
+HTTP_REFERER=http://localhost/yii-validation/users/admin
+---
+2014/09/19 16:48:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/admin
+---
+2014/09/19 16:49:09 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in C:\xampp\htdocs\yii\framework\web\CController.php:1118
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\filters\CInlineFilter.php(58): CController->filterPostOnly(Object(CFilterChain))
+#1 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#2 C:\xampp\htdocs\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#3 C:\xampp\htdocs\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 C:\xampp\htdocs\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 C:\xampp\htdocs\yii\framework\web\CController.php(291): CFilterChain->run()
+#7 C:\xampp\htdocs\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('delete')
+#9 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('users/delete/in...')
+#10 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#11 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/yii-validation/users/delete/index
+HTTP_REFERER=http://localhost/yii-validation/users/admin
+---
+2014/09/19 16:50:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/create
+---
+2014/09/19 16:50:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/create
+---
+2014/09/19 16:50:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/index
+---
+2014/09/19 16:52:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/create
+---
+2014/09/19 16:52:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/104
+---
+2014/09/19 16:53:04 [error] [php] Undefined variable: model (C:\xampp\htdocs\yii-validation\protected\controllers\UsersController.php:140)
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\actions\CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#1 C:\xampp\htdocs\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(133): UsersController->runAction()
+#3 C:\xampp\htdocs\yii\framework\web\CController.php(1116): CFilterChain->run()
+#4 C:\xampp\htdocs\yii\framework\web\filters\CInlineFilter.php(58): UsersController->filterPostOnly()
+#5 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#6 C:\xampp\htdocs\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\xampp\htdocs\yii\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#8 C:\xampp\htdocs\yii\framework\web\filters\CInlineFilter.php(58): UsersController->filterAccessControl()
+#9 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#10 C:\xampp\htdocs\yii\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\xampp\htdocs\yii\framework\web\CController.php(265): UsersController->runActionWithFilters()
+#12 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): UsersController->run()
+#13 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#14 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#15 C:\xampp\htdocs\yii-validation\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii-validation/users/delete/104
+in C:\xampp\htdocs\yii-validation\protected\controllers\UsersController.php (140)
+in C:\xampp\htdocs\yii-validation\index.php (13)
+2014/09/19 16:53:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users
+---
+2014/09/19 16:53:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/create
+---
+2014/09/19 16:54:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/105
+---
+2014/09/19 16:54:40 [error] [php] Undefined variable: model (C:\xampp\htdocs\yii-validation\protected\controllers\UsersController.php:140)
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\actions\CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#1 C:\xampp\htdocs\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(133): UsersController->runAction()
+#3 C:\xampp\htdocs\yii\framework\web\CController.php(1116): CFilterChain->run()
+#4 C:\xampp\htdocs\yii\framework\web\filters\CInlineFilter.php(58): UsersController->filterPostOnly()
+#5 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#6 C:\xampp\htdocs\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\xampp\htdocs\yii\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#8 C:\xampp\htdocs\yii\framework\web\filters\CInlineFilter.php(58): UsersController->filterAccessControl()
+#9 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#10 C:\xampp\htdocs\yii\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\xampp\htdocs\yii\framework\web\CController.php(265): UsersController->runActionWithFilters()
+#12 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): UsersController->run()
+#13 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#14 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#15 C:\xampp\htdocs\yii-validation\index.php(13): CWebApplication->run()
+REQUEST_URI=/yii-validation/users/delete/105
+in C:\xampp\htdocs\yii-validation\protected\controllers\UsersController.php (140)
+in C:\xampp\htdocs\yii-validation\index.php (13)
+2014/09/19 16:55:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users
+---
+2014/09/19 16:55:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/create
+---
+2014/09/19 16:55:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/106
+---
+2014/09/19 16:55:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/index
+---
+2014/09/19 16:55:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/admin
+---
+2014/09/19 17:09:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/create
+---
+2014/09/19 17:10:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/create
+---
+2014/09/19 17:12:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/lib/bootstrap/less/mixins.less".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/lib/boot...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/assets/lib/bootstrap/less/mixins.less
+HTTP_REFERER=http://localhost/yii-validation/users/create
+---
+2014/09/19 17:22:54 [error] [exception.CException] exception 'CException' with message 'Alias "application.components.ArtMenu" is invalid. Make sure it points to an existing PHP file and the file is readable.' in C:\xampp\htdocs\yii\framework\YiiBase.php:322
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWidgetFactory.php(146): YiiBase::import('application.com...', true)
+#1 C:\xampp\htdocs\yii\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(UsersController), 'application.com...', Array)
+#2 C:\xampp\htdocs\yii\framework\web\CBaseController.php(172): CBaseController->createWidget('application.com...', Array)
+#3 C:\xampp\htdocs\yii-validation\themes\fistful\views\layouts\main_sbar.php(44): CBaseController->widget('application.com...', Array)
+#4 C:\xampp\htdocs\yii\framework\web\CBaseController.php(126): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\yii\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\\xampp\\htdocs...', Array, true)
+#6 C:\xampp\htdocs\yii\framework\web\widgets\CContentDecorator.php(76): CBaseController->renderFile('C:\\xampp\\htdocs...', Array, true)
+#7 C:\xampp\htdocs\yii\framework\web\widgets\CContentDecorator.php(54): CContentDecorator->decorate('<div class="art...')
+#8 C:\xampp\htdocs\yii\framework\web\widgets\COutputProcessor.php(44): CContentDecorator->processOutput('<div class="art...')
+#9 C:\xampp\htdocs\yii\framework\web\CBaseController.php(206): COutputProcessor->run()
+#10 C:\xampp\htdocs\yii\framework\web\CBaseController.php(300): CBaseController->endWidget('CContentDecorat...')
+#11 C:\xampp\htdocs\yii-validation\themes\fistful\views\layouts\column2.php(9): CBaseController->endContent()
+#12 C:\xampp\htdocs\yii\framework\web\CBaseController.php(126): require('C:\\xampp\\htdocs...')
+#13 C:\xampp\htdocs\yii\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\\xampp\\htdocs...', Array, true)
+#14 C:\xampp\htdocs\yii\framework\web\CController.php(784): CBaseController->renderFile('C:\\xampp\\htdocs...', Array, true)
+#15 C:\xampp\htdocs\yii-validation\protected\controllers\UsersController.php(166): CController->render('admin', Array)
+#16 C:\xampp\htdocs\yii\framework\web\actions\CInlineAction.php(49): UsersController->actionAdmin()
+#17 C:\xampp\htdocs\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#18 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#19 C:\xampp\htdocs\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#20 C:\xampp\htdocs\yii\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#21 C:\xampp\htdocs\yii\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#22 C:\xampp\htdocs\yii\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#23 C:\xampp\htdocs\yii\framework\web\CController.php(291): CFilterChain->run()
+#24 C:\xampp\htdocs\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#25 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('admin')
+#26 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('users/admin')
+#27 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#28 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#29 {main}
+REQUEST_URI=/yii-validation/users/admin?Users_page=9
+HTTP_REFERER=http://localhost/yii-validation/users/admin?Users_page=10
+---
+2014/09/19 17:25:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/freearch/js/js/jquery-1.4.2.min.js".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/freearch...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/freearch/js/js/jquery-1.4.2.min.js
+HTTP_REFERER=http://localhost/yii-validation/users/admin?Users_page=9
+---
+2014/09/19 17:25:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/freearch/js/js/cufon-yui.js".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/freearch...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/freearch/js/js/cufon-yui.js
+HTTP_REFERER=http://localhost/yii-validation/users/admin?Users_page=9
+---
+2014/09/19 17:25:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/freearch/js/js/Myriad_Pro_600.font.js".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/freearch...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/freearch/js/js/Myriad_Pro_600.font.js
+HTTP_REFERER=http://localhost/yii-validation/users/admin?Users_page=9
+---
+2014/09/19 17:25:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/freearch/js/js/Myriad_Pro_400.font.js".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/freearch...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/freearch/js/js/Myriad_Pro_400.font.js
+HTTP_REFERER=http://localhost/yii-validation/users/admin?Users_page=9
+---
+2014/09/19 17:25:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/freearch/js/js/cufon-replace.js".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/freearch...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/freearch/js/js/cufon-replace.js
+HTTP_REFERER=http://localhost/yii-validation/users/admin?Users_page=9
+---
+2014/09/19 17:27:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/freearch/js/js/Myriad_Pro_400.font.js".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/freearch...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/freearch/js/js/Myriad_Pro_400.font.js
+HTTP_REFERER=http://localhost/yii-validation/users/admin?text=&text=
+---
+2014/09/19 17:27:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/freearch/js/js/Myriad_Pro_600.font.js".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/freearch...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/freearch/js/js/Myriad_Pro_600.font.js
+HTTP_REFERER=http://localhost/yii-validation/users/admin?text=&text=
+---
+2014/09/19 17:27:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/freearch/js/js/cufon-replace.js".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/freearch...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/freearch/js/js/cufon-replace.js
+HTTP_REFERER=http://localhost/yii-validation/users/admin?text=&text=
+---
+2014/09/19 17:27:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/freearch/js/js/cufon-yui.js".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/freearch...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/freearch/js/js/cufon-yui.js
+HTTP_REFERER=http://localhost/yii-validation/users/admin?text=&text=
+---
+2014/09/19 17:27:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/freearch/js/js/jquery-1.4.2.min.js".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/freearch...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/freearch/js/js/jquery-1.4.2.min.js
+HTTP_REFERER=http://localhost/yii-validation/users/admin?text=&text=
+---
+2014/09/19 17:47:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/sitemap_color.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/sitemap_color.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:47:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:47:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/big_icons/icon-shopping-cart2.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/big_icons/icon-shopping-cart2.png
+HTTP_REFERER=http://localhost/yii-validation/site/index
+---
+2014/09/19 17:47:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/big_icons/icon-shopping-cart2.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/big_icons/icon-shopping-cart2.png
+HTTP_REFERER=http://localhost/yii-validation/site/index
+---
+2014/09/19 17:48:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/big_icons/icon-shopping-cart2.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/big_icons/icon-shopping-cart2.png
+---
+2014/09/19 17:48:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/big_icons/icon-shopping-cart2.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/big_icons/icon-shopping-cart2.png
+---
+2014/09/19 17:50:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/big_icons/icon-shopping-cart2.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/big_icons/icon-shopping-cart2.png
+HTTP_REFERER=http://localhost/yii-validation/site/index
+---
+2014/09/19 17:50:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/big_icons/icon-shopping-cart2.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/big_icons/icon-shopping-cart2.png
+---
+2014/09/19 17:50:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/big_icons/icon-shopping-cart2.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/big_icons/icon-shopping-cart2.png
+HTTP_REFERER=http://localhost/yii-validation/site/index
+---
+2014/09/19 17:53:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/chart_bar.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/chart_bar.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:53:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/chart_pie.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/chart_pie.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:55:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/brick.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/brick.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:55:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/delete.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/delete.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:55:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/disk.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/disk.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:55:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/anchor.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/anchor.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:55:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/tick.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/tick.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:55:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/accept.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/accept.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:55:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/status_offline.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/status_offline.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:55:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/status_online.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/status_online.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:55:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/status_busy.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/status_busy.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:55:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/error.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/error.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:55:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/lightbulb.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/lightbulb.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:55:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/printer.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/printer.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:55:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/sound_low.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/sound_low.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:55:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/status_away.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/status_away.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:55:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/rss_go.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/rss_go.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:55:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/plugin.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/plugin.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:55:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/paintbrush.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/paintbrush.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:55:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/phone_delete.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/phone_delete.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:55:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/note.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/note.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:55:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/new.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/new.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:55:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/money_add.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/money_add.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:55:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/magnifier.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/magnifier.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:56:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The requested view "Demo 404 page" was not found.' in C:\xampp\htdocs\yii\framework\web\actions\CViewAction.php:112
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\actions\CViewAction.php(123): CViewAction->resolveView('Demo 404 page')
+#1 C:\xampp\htdocs\yii\framework\web\actions\CAction.php(76): CViewAction->run()
+#2 C:\xampp\htdocs\yii\framework\web\CController.php(308): CAction->runWithParams(Array)
+#3 C:\xampp\htdocs\yii\framework\web\CController.php(286): CController->runAction(Object(CViewAction))
+#4 C:\xampp\htdocs\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CViewAction), Array)
+#5 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('page')
+#6 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/page')
+#7 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#8 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/yii-validation/site/page?view=Demo+404+page
+HTTP_REFERER=http://localhost/yii-validation/site/page?view=buttons_and_icons
+---
+2014/09/19 17:57:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/sitemap_color.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/sitemap_color.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:57:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:57:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:57:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/sitemap_color.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/sitemap_color.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:59:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/brick.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/brick.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:59:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/accept.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/accept.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:59:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/disk.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/disk.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:59:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/tick.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/tick.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:59:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/delete.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/delete.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:59:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/anchor.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/anchor.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:59:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/error.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/error.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:59:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/lightbulb.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/lightbulb.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:59:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/status_online.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/status_online.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:59:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/status_offline.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/status_offline.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:59:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/status_away.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/status_away.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:59:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/status_busy.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/status_busy.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:59:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/plugin.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/plugin.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:59:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/rss_go.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/rss_go.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:59:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/phone_delete.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/phone_delete.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:59:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/printer.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/printer.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:59:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/sound_low.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/sound_low.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:59:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/paintbrush.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/paintbrush.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:59:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/new.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/new.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:59:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/magnifier.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/magnifier.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:59:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/note.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/note.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:59:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/money_add.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/money_add.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:59:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The requested view "Demo 404 page" was not found.' in C:\xampp\htdocs\yii\framework\web\actions\CViewAction.php:112
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\actions\CViewAction.php(123): CViewAction->resolveView('Demo 404 page')
+#1 C:\xampp\htdocs\yii\framework\web\actions\CAction.php(76): CViewAction->run()
+#2 C:\xampp\htdocs\yii\framework\web\CController.php(308): CAction->runWithParams(Array)
+#3 C:\xampp\htdocs\yii\framework\web\CController.php(286): CController->runAction(Object(CViewAction))
+#4 C:\xampp\htdocs\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CViewAction), Array)
+#5 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('page')
+#6 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/page')
+#7 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#8 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/yii-validation/site/page?view=Demo+404+page
+HTTP_REFERER=http://localhost/yii-validation/site/page?view=buttons_and_icons
+---
+2014/09/19 17:59:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The requested view "Demo 404 page" was not found.' in C:\xampp\htdocs\yii\framework\web\actions\CViewAction.php:112
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\actions\CViewAction.php(123): CViewAction->resolveView('Demo 404 page')
+#1 C:\xampp\htdocs\yii\framework\web\actions\CAction.php(76): CViewAction->run()
+#2 C:\xampp\htdocs\yii\framework\web\CController.php(308): CAction->runWithParams(Array)
+#3 C:\xampp\htdocs\yii\framework\web\CController.php(286): CController->runAction(Object(CViewAction))
+#4 C:\xampp\htdocs\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CViewAction), Array)
+#5 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(282): CController->run('page')
+#6 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('site/page')
+#7 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#8 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/yii-validation/site/page?view=Demo+404+page
+HTTP_REFERER=http://localhost/yii-validation/site/page?view=Demo+404+page
+---
+2014/09/19 17:59:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/accept.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/accept.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:59:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/anchor.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/anchor.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:59:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/brick.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/brick.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:59:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/disk.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/disk.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:59:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/delete.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/delete.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:59:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/error.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/error.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:59:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/tick.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/tick.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:59:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/lightbulb.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/lightbulb.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:59:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/status_offline.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/status_offline.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:59:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/status_busy.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/status_busy.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:59:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/status_away.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/status_away.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:59:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/rss_go.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/rss_go.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:59:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/status_online.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/status_online.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:59:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/sound_low.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/sound_low.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:59:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/printer.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/printer.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:59:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/plugin.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/plugin.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:59:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/phone_delete.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/phone_delete.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:59:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/paintbrush.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/paintbrush.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:59:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/note.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/note.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:59:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/new.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/new.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:59:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/money_add.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/money_add.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 17:59:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/magnifier.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/magnifier.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 18:00:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/brick.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/brick.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 18:00:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/disk.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/disk.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 18:00:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/tick.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/tick.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 18:00:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/anchor.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/anchor.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 18:00:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/accept.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/accept.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 18:00:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/delete.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/delete.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 18:00:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/lightbulb.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/lightbulb.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 18:00:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/error.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/error.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 18:00:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/status_offline.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/status_offline.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 18:00:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/status_online.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/status_online.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 18:00:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/status_busy.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/status_busy.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 18:00:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/status_away.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/status_away.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 18:00:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/sound_low.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/sound_low.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 18:00:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/printer.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/printer.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 18:00:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/plugin.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/plugin.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 18:00:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/rss_go.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/rss_go.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 18:00:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/phone_delete.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/phone_delete.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 18:00:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/magnifier.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/magnifier.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 18:00:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/new.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/new.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 18:00:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/note.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/note.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 18:00:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/money_add.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/money_add.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 18:00:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/paintbrush.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/paintbrush.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 18:01:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 18:01:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/sitemap_color.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/sitemap_color.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 18:50:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/sitemap_color.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/sitemap_color.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 18:50:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 18:54:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/sitemap_color.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/sitemap_color.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 18:54:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/dancer/images/small_icons/user.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/dancer/i...')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/themes/dancer/images/small_icons/user.png
+HTTP_REFERER=http://localhost/yii-validation/themes/dancer/css/icons.css
+---
+2014/09/19 23:24:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "iphone.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('iphone.png')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/iphone.png
+HTTP_REFERER=http://localhost/yii-validation/inicio.php?
+---
+2014/09/19 23:24:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "main.css".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('main.css')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/main.css
+HTTP_REFERER=http://localhost/yii-validation/inicio.php?
+---
+2014/09/19 23:24:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "android.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('android.png')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/android.png
+HTTP_REFERER=http://localhost/yii-validation/inicio.php?
+---
+2014/09/19 23:24:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "windows.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('windows.png')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/windows.png
+HTTP_REFERER=http://localhost/yii-validation/inicio.php?
+---
+2014/09/19 23:24:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "android.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('android.png')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/android.png
+HTTP_REFERER=http://localhost/yii-validation/inicio.php?
+---
+2014/09/19 23:24:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "iphone.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('iphone.png')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/iphone.png
+HTTP_REFERER=http://localhost/yii-validation/inicio.php?
+---
+2014/09/19 23:24:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "windows.png".' in C:\xampp\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('windows.png')
+#1 C:\xampp\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii-validation\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/yii-validation/windows.png
+HTTP_REFERER=http://localhost/yii-validation/inicio.php?
+---

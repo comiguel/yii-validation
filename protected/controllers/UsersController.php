@@ -118,13 +118,26 @@ class UsersController extends Controller
 	 * If deletion is successful, the browser will be redirected to the 'admin' page.
 	 * @param integer $id the ID of the model to be deleted
 	 */
+
+	// public function actionDestroy($id)
+	// {
+	// 	$this->loadModel($id)->delete();
+	// 	$this->redirect('index');
+	// }
+
+	// public function actionDelete($id)
+	// {
+	// 	$this->loadModel($id)->delete();
+
+	// 	// if AJAX request (triggered by deletion via admin grid view), we should not redirect the browser
+	// 	if(!isset($_GET['ajax']))
+	// 		$this->redirect(isset($_POST['returnUrl']) ? $_POST['returnUrl'] : array('admin'));
+	// }
 	public function actionDelete($id)
 	{
-		$this->loadModel($id)->delete();
-
-		// if AJAX request (triggered by deletion via admin grid view), we should not redirect the browser
-		if(!isset($_GET['ajax']))
-			$this->redirect(isset($_POST['returnUrl']) ? $_POST['returnUrl'] : array('admin'));
+		$user = Users::model()->findByPk($id);
+		$user->delete();
+		$this->redirect(array('index'));
 	}
 
 	/**

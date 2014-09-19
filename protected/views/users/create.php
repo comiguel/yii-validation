@@ -12,103 +12,84 @@ $this->menu=array(
 	array('label'=>'Manage Users', 'url'=>array('admin')),
 );
 ?>
-<script>
-	$(document).ready(function() {
-    $('#form-create').bootstrapValidator({
-        feedbackIcons: {
-            valid: 'glyphicon glyphicon-ok',
-            invalid: 'glyphicon glyphicon-remove',
-            validating: 'glyphicon glyphicon-refresh'
-        },
-        fields: {
-        	name: {
-                validators: {
-                	notEmpty: {
-                        message: 'The name is required'
-                    },
-                    stringLength: {
-                    	min: 4,
-                        max: 10,
-                        message: 'The Name must be more than 4 and less than 10 characters'
-                    }
-                }
-            },
-            email: {
-                validators: {
-                	notEmpty: {
-                        message: 'The email is required'
-                    },
-                    emailAddress: {
-                        message: 'The value is not a valid email address'
-                    }
-                }
-            },
-            password: {
-                validators: {
-                	notEmpty: {
-                        message: 'The password is required'
-                    },
-                    stringLength: {
-                    	min: 4,
-                        max: 12,
-                        message: 'The full name must be more than 4 and less than 12 characters'
-                    },
-                    different: {
-                        field: 'name',
-                        message: 'The password cannot be the same as username'
-                    }
-                }
-            },
-            confirmPassword: {
-                validators: {
-                    identical: {
-                        field: 'password',
-                        message: 'The password and its confirm are not the same'
-                    }
-                }
-            }
-        }
-    });
-});
-</script>
 <h1>Create Users</h1>
-
+<script>$(document).ready(function() {validar("#form-create")});</script>
 <!--<?php //$this->renderPartial('_form', array('model'=>$model)); ?> -->
 <div class="container">
-	<div class="row">
-		<div class="col-xs-6 col-xs-offset-3">
-			<div class="panel panel-success">
-		  		<div class="panel-heading">
-		  			<h4>New User</h4>
-		  		</div>
+    <hr>
+    <div class="row">
+        <button class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">
+          Launch demo modal
+        </button>
+    </div>
+    <div id="myModal" class="modal fade">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            <h4 class="modal-title">Create User</h4>
+          </div>
+          <div class="modal-body">
+        	<div class="row">
+        		<div class="col-xs-12">
+        			<div class="panel panel-primary">
+        		  		<!-- <div class="panel-heading">
+        		  			<h4>New User</h4>
+        		  		</div> -->
 
-		  		<div class="panel-body">
-		  			<form id="form-create" method="post" action="store">
-						<p>
-							<input type="text" name="name" placeholder="Name" class="form-control" required>
-						</p>
-						<p>
-							<input type="text" name="lastname" placeholder="LastName" class="form-control" required>
-						</p>
-						<p>
-							<input type="email" name="email" placeholder="E-mail" class="form-control" required>
-						</p>
-					    <!-- Password-->
-					    <div class="controls">
-					      <input type="password" name="password" placeholder="Password" class="form-control" required>
-					      <p class="help-block">Password should be at least 4 characters</p>
-					    </div>
-					    <div class="controls">
-					      <input type="password" name="confirmpassword" placeholder="Retype Password" class="form-control" required>
-					      <p class="help-block">Password should be at least 4 characters</p>
-					    </div>
-						<p>
-							<input type="submit" value="Registrar" class="btn btn-success">
-							<a href="index" class="btn btn-primary">Regresar</a>
-						</p>
-					</form>
-				</div>
-			</div>
-		</div>
-	</div>
+        		  		<div class="panel-body">
+        		  			<form id="form-create" method="post" action="store" class="form-horizontal" role="form">
+        						<div class="form-group">
+                                    <label class="text-left control-label col-xs-4" for="">Name</label>
+                                    <div class="col-xs-7">
+        							     <input type="text" name="name" placeholder="Name" class="form-control" required>
+                                    </div>
+        						</div>
+        						<div class="form-group">
+                                    <label class="text-left control-label col-xs-4" for="">Last Name</label>
+                                    <div class="col-xs-7">
+        							     <input type="text" name="lastname" placeholder="LastName" class="form-control" required>
+                                    </div>
+        						</div>
+        						<div class="form-group">
+                                    <label class="text-left control-label col-xs-4" for="">E-mail</label>
+                                    <div class="col-xs-7">
+        							     <input type="email" name="email" placeholder="E-mail" class="form-control" required>
+                                    </div>
+        						</div>
+        					    <!-- Password-->
+        					    <div class="form-group">
+                                    <label class="text-left control-label col-xs-4" for="">Password</label>
+                                    <div class="col-xs-7">
+                                            <input type="password" name="password" placeholder="Password" class="form-control" required>
+                                    </div>
+        					    </div>
+        					    <div class="form-group">
+                                    <label class="text-left control-label col-xs-4" for="">Confirm Password</label>
+                                    <div class="col-xs-7">
+                                            <input type="password" name="confirmpassword" placeholder="Retype Password" class="form-control" required>
+                                    </div>
+        					    </div>
+                                <br>
+        						<div class="col-xs-12 text-right">
+        							<input type="submit" value="Registrar" class="btn btn-success">
+        							<a href="<?=Yii::app()->user->returnUrl?>" class="btn btn-primary">Regresar</a>
+                                    <!-- <button action="index" class="btn btn-primary">Regresar</button> -->
+                                    <!-- <input type="button" action="index" class="btn btn-primary" value="Regresar"> -->
+                                </div>
+                                <br>
+        						
+        					</form>
+        				</div>
+        			</div>
+        		</div>
+        	</div>
+          </div>
+          <!-- <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            <button type="button" class="btn btn-primary">Save changes</button>
+          </div> -->
+        </div><!-- /.modal-content -->
+      </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
 </div>
